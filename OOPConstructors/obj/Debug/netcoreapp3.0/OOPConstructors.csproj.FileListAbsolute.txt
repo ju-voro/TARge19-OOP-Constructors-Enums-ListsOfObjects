@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\bin\Debug\netcoreapp3.0\OOPConstructors.exe
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\bin\Debug\netcoreapp3.0\OOPConstructors.deps.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\bin\Debug\netcoreapp3.0\OOPConstructors.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\bin\Debug\netcoreapp3.0\OOPConstructors.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\bin\Debug\netcoreapp3.0\OOPConstructors.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\bin\Debug\netcoreapp3.0\OOPConstructors.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\obj\Debug\netcoreapp3.0\OOPConstructors.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\obj\Debug\netcoreapp3.0\OOPConstructors.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\obj\Debug\netcoreapp3.0\OOPConstructors.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\obj\Debug\netcoreapp3.0\OOPConstructors.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\OOPConstructors\obj\Debug\netcoreapp3.0\OOPConstructors.pdb

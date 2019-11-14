@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\bin\Debug\netcoreapp3.0\DogBreedEnum.exe
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\bin\Debug\netcoreapp3.0\DogBreedEnum.deps.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\bin\Debug\netcoreapp3.0\DogBreedEnum.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\bin\Debug\netcoreapp3.0\DogBreedEnum.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\bin\Debug\netcoreapp3.0\DogBreedEnum.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\bin\Debug\netcoreapp3.0\DogBreedEnum.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\obj\Debug\netcoreapp3.0\DogBreedEnum.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\obj\Debug\netcoreapp3.0\DogBreedEnum.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\obj\Debug\netcoreapp3.0\DogBreedEnum.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\obj\Debug\netcoreapp3.0\DogBreedEnum.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogBreedEnum\obj\Debug\netcoreapp3.0\DogBreedEnum.pdb

@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\bin\Debug\netcoreapp3.0\DogConstructor.exe
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\bin\Debug\netcoreapp3.0\DogConstructor.deps.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\bin\Debug\netcoreapp3.0\DogConstructor.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\bin\Debug\netcoreapp3.0\DogConstructor.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\bin\Debug\netcoreapp3.0\DogConstructor.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\bin\Debug\netcoreapp3.0\DogConstructor.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\obj\Debug\netcoreapp3.0\DogConstructor.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\obj\Debug\netcoreapp3.0\DogConstructor.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\obj\Debug\netcoreapp3.0\DogConstructor.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\obj\Debug\netcoreapp3.0\DogConstructor.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\DogConstructor\obj\Debug\netcoreapp3.0\DogConstructor.pdb

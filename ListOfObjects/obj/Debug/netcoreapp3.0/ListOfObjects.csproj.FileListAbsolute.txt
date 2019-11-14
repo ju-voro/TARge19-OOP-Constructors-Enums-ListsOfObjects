@@ -1,0 +1,11 @@
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\bin\Debug\netcoreapp3.0\ListOfObjects.exe
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\bin\Debug\netcoreapp3.0\ListOfObjects.deps.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\bin\Debug\netcoreapp3.0\ListOfObjects.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\bin\Debug\netcoreapp3.0\ListOfObjects.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\bin\Debug\netcoreapp3.0\ListOfObjects.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\bin\Debug\netcoreapp3.0\ListOfObjects.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\obj\Debug\netcoreapp3.0\ListOfObjects.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\obj\Debug\netcoreapp3.0\ListOfObjects.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\obj\Debug\netcoreapp3.0\ListOfObjects.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\obj\Debug\netcoreapp3.0\ListOfObjects.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\ListOfObjects\obj\Debug\netcoreapp3.0\ListOfObjects.csprojAssemblyReference.cache
