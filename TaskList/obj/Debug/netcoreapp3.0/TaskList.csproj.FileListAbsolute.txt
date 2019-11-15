@@ -1,0 +1,10 @@
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\bin\Debug\netcoreapp3.0\TaskList.exe
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\bin\Debug\netcoreapp3.0\TaskList.deps.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\bin\Debug\netcoreapp3.0\TaskList.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\bin\Debug\netcoreapp3.0\TaskList.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\bin\Debug\netcoreapp3.0\TaskList.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\bin\Debug\netcoreapp3.0\TaskList.pdb
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\obj\Debug\netcoreapp3.0\TaskList.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\obj\Debug\netcoreapp3.0\TaskList.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\obj\Debug\netcoreapp3.0\TaskList.dll
+C:\Users\julia.voronetskaja\source\repos\OOPConstructors\TaskList\obj\Debug\netcoreapp3.0\TaskList.pdb
